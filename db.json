@@ -1,0 +1,147 @@
+{
+  "toys": [
+    {
+      "id": 1,
+      "name": "Super Hero Action Figure",
+      "description": "Detailed action figure with movable joints and accessories",
+      "price": 24.99,
+      "category": "Action Figures",
+      "ageRange": "6-8 years",
+      "image": "https://images.unsplash.com/photo-1754294437669-9501390c12bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHRveXMlMjBjb2xvcmZ1bHxlbnwxfHx8fDE3NjE5ODQ5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 45,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Cuddly Teddy Bear",
+      "description": "Soft and huggable plush teddy bear, perfect for bedtime",
+      "price": 19.99,
+      "category": "Plush Toys",
+      "ageRange": "0-2 years",
+      "image": "https://images.unsplash.com/photo-1649598042794-a87b221819a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWRkeSUyMGJlYXIlMjBwbHVzaHxlbnwxfHx8fDE3NjE5OTY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 60,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Building Blocks Set",
+      "description": "200-piece colorful building blocks for creative construction",
+      "price": 34.99,
+      "category": "Building Blocks",
+      "ageRange": "3-5 years",
+      "image": "https://images.unsplash.com/photo-1659948723299-e013db9941c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBibG9ja3MlMjBidWlsZGluZ3xlbnwxfHx8fDE3NjE5OTY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 30,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Racing Car Collection",
+      "description": "Set of 5 die-cast racing cars with realistic details",
+      "price": 29.99,
+      "category": "Vehicles",
+      "ageRange": "6-8 years",
+      "image": "https://images.unsplash.com/photo-1651004927726-1a5c3d524bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBjYXIlMjByYWNpbmd8ZW58MXx8fHwxNzYxOTk2NDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 25,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Princess Doll",
+      "description": "Beautiful princess doll with elegant dress and accessories",
+      "price": 27.99,
+      "category": "Dolls",
+      "ageRange": "3-5 years",
+      "image": "https://images.unsplash.com/photo-1761396742176-b6a5f17f9620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBzdG9yZSUyMGNoaWxkcmVufGVufDF8fHx8MTc2MTk5NjQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 40,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Jigsaw Puzzle 500 Pieces",
+      "description": "Challenging puzzle with beautiful landscape design",
+      "price": 15.99,
+      "category": "Puzzles",
+      "ageRange": "9-12 years",
+      "image": "https://images.unsplash.com/photo-1595707678349-4b3f482bfbd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwdXp6bGUlMjBnYW1lJTIwa2lkc3xlbnwxfHx8fDE3NjE5OTY0Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 50,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "STEM Learning Kit",
+      "description": "Educational science kit with 20+ experiments",
+      "price": 44.99,
+      "category": "Educational",
+      "ageRange": "9-12 years",
+      "image": "https://images.unsplash.com/photo-1754294437669-9501390c12bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHRveXMlMjBjb2xvcmZ1bHxlbnwxfHx8fDE3NjE5ODQ5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 20,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Robot Transformer",
+      "description": "Transforming robot that converts to a vehicle",
+      "price": 39.99,
+      "category": "Action Figures",
+      "ageRange": "6-8 years",
+      "image": "https://images.unsplash.com/photo-1754294437669-9501390c12bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMHRveXMlMjBjb2xvcmZ1bHxlbnwxfHx8fDE3NjE5ODQ5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 35,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Stuffed Unicorn",
+      "description": "Magical unicorn plush toy with rainbow mane",
+      "price": 22.99,
+      "category": "Plush Toys",
+      "ageRange": "3-5 years",
+      "image": "https://images.unsplash.com/photo-1649598042794-a87b221819a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWRkeSUyMGJlYXIlMjBwbHVzaHxlbnwxfHx8fDE3NjE5OTY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 55,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Construction Truck Set",
+      "description": "Set of 3 construction vehicles with moving parts",
+      "price": 32.99,
+      "category": "Vehicles",
+      "ageRange": "3-5 years",
+      "image": "https://images.unsplash.com/photo-1651004927726-1a5c3d524bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBjYXIlMjByYWNpbmd8ZW58MXx8fHwxNzYxOTk2NDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 28,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Baby Doll with Accessories",
+      "description": "Realistic baby doll with bottle, blanket, and pacifier",
+      "price": 31.99,
+      "category": "Dolls",
+      "ageRange": "3-5 years",
+      "image": "https://images.unsplash.com/photo-1761396742176-b6a5f17f9620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBzdG9yZSUyMGNoaWxkcmVufGVufDF8fHx8MTc2MTk5NjQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "stock": 42,
+      "featured": false
+    },
+    {
+      "name": "Magnetic Building Tiles",
+      "description": "100-piece magnetic tiles for 3D construction",
+      "price": 49.99,
+      "stock": 22,
+      "category": "Building Blocks",
+      "ageRange": "6-8 years",
+      "image": "https://images.unsplash.com/photo-1659948723299-e013db9941c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBibG9ja3MlMjBidWlsZGluZ3xlbnwxfHx8fDE3NjE5OTY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "featured": true,
+      "id": 12
+    },
+    {
+      "name": "test",
+      "description": " sdfs dfsd fsdf",
+      "price": 123,
+      "stock": 0,
+      "category": "Action Figures",
+      "ageRange": "0-2 years",
+      "image": "https://images.unsplash.com/photo-1761396742176-b6a5f17f9620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b3klMjBzdG9yZSUyMGNoaWxkcmVufGVufDF8fHx8MTc2MTk5NjQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "featured": true,
+      "id": 13
+    }
+  ]
+}
